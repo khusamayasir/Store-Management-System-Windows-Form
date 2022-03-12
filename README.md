@@ -1,4 +1,4 @@
-# Store-Managment-System-Windows-Form
+# Store-Management-System-Windows-Form
 This project is our Second project in the field of Computer Science. We design the code of “Store Management System” on Windows Form by using SQL database. This project contains 11 Different Forms. We use “C# Programming language” to write this code and the code compiler is “Visual Studio Community 2019”.
 
  FEATURES OF PROJECT: 
